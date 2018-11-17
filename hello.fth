@@ -8,6 +8,8 @@
 ;
 
 Hello
+bye
+
 
 ( To try this with gforth, type :    gforth hello.fth ) 
 
