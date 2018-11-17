@@ -1,2 +1,3 @@
 # hello-world
-general info
+general info about forth, domotics, raspberrypi, MySensors
+
